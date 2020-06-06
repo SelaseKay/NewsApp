@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\697f71c0c12135256cbfe98df498a7e4\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\36d7041dcf84ab6f794fc264cc0d6f82\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
@@ -36,29 +36,29 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\judek\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:3:5-46
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:4:5-66
+ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:4:5-66
 	android:name
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:6:5-21:19
+ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:6:5-23:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\552755c44301c6580f681395cd256bfa\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
@@ -72,39 +72,41 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ju
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.gmail.judekwashie70.NewsApp.NewsActivity
-ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:13:9-59
+ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:13:9-15:20
+	android:parentActivityName
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:14:13-55
 	android:name
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:13:19-47
 activity#com.gmail.judekwashie70.NewsApp.MainActivity
-ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\697f71c0c12135256cbfe98df498a7e4\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\697f71c0c12135256cbfe98df498a7e4\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
@@ -169,16 +171,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\judek\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judek\AndroidStudioProjects\NewsApp\NewsApp\app\src\main\AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
 ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\judek\.gradle\caches\transforms-2\files-2.1\552755c44301c6580f681395cd256bfa\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 	android:authorities

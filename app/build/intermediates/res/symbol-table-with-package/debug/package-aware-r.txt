@@ -785,7 +785,6 @@ id middle
 id multiply
 id never
 id news_activity_author
-id news_activity_title
 id news_activity_title_2
 id news_author
 id news_description
@@ -856,6 +855,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id toolbar
 id top
 id topPanel
 id uniform
