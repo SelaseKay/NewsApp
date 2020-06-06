@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
                 mProgressBar.setVisibility(View.GONE);
                 mSwipeRefreshLayout.setRefreshing(false);
                 try {
+                    mNewsList.clear();
                     JSONObject jsonObject = new JSONObject(response);
                     JSONArray jsonArray = jsonObject.getJSONArray("articles");
                     for (int i =  0; i<jsonArray.length(); i++){
