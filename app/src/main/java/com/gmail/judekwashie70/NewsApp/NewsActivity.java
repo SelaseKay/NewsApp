@@ -1,6 +1,8 @@
 package com.gmail.judekwashie70.NewsApp;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 
 import android.content.Context;
 import android.content.Intent;
@@ -26,17 +28,19 @@ public class NewsActivity extends AppCompatActivity {
     private ImageView mImageView;
     private TextView mDescriptionTextView;
     private TextView mAuthorTextView;
+    private Toolbar mToolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_news);
 
-        mTitle1TextView = findViewById(R.id.news_activity_title);
         mTitle2TextView = findViewById(R.id.news_activity_title_2);
         mImageView = findViewById(R.id.news_image);
         mDescriptionTextView = findViewById(R.id.news_description);
         mAuthorTextView = findViewById(R.id.news_activity_author);
+        mToolbar = findViewById(R.id.toolbar);
+        setSupportActionBar(mToolbar);
 
         setViews();
 
@@ -45,10 +49,12 @@ public class NewsActivity extends AppCompatActivity {
     private void setViews(){
         Intent getIntent = getIntent();
         News news = Parcels.unwrap(getIntent.getParcelableExtra(NewsAdapter.KEY_NEWS));
-        mTitle1TextView.setText(news.getTitle());
         mTitle2TextView.setText(news.getTitle());
         mDescriptionTextView.setText(news.getNewsDescription());
         mAuthorTextView.setText(news.getAuthor());
+        getSupportActionBar().setTitle(news.getTitle());
+        ActionBar ab = getSupportActionBar();
+        ab.setDisplayHomeAsUpEnabled(true);
 
 
         if (!news.getImage().isEmpty())
