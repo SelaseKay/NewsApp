@@ -6,4 +6,6 @@ Android Components Used for this app
 2) Recycler View
 
 Link to the app's demo is provided below
+
+
 https://drive.google.com/file/d/1zTvyGxtJRZ-w_qVzA_wBBDzesS3LZjRh/view?usp=sharing
